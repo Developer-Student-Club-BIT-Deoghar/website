@@ -1,8 +1,5 @@
 # DSC-BITD Website
 
-<p align="center">![DSC BITDeoghar Logo x1](https://user-images.githubusercontent.com/72595335/132990720-721b5295-3a48-40e8-98b7-743f7e6a8c62.png)
-</p>
-
 This is the official website of Google Developer Student Club, Birla Institute of Technology Mesra, Deoghar Campus.
 
 ## 📌Contributing Guidelines :

@@ -4,7 +4,7 @@ This is the official website of Google Developer Student Club, Birla Institute o
 
 ## 📌Contributing Guidelines :
 
-**1.**  Fork [this](https://github.com/soumita1234/website) repository.
+**1.**  Fork [this](https://github.com/Developer-Student-Club-BIT-Deoghar/website.git) repository.
 
 **2.**  Clone your forked copy of the project.
 ```
@@ -16,7 +16,7 @@ cd website
 ```
 **4.** Add a reference(remote) to the original repository.
 ```
-git remote add upstream https://github.com/soumita1234/website.git
+git remote add upstream https://github.com/Developer-Student-Club-BIT-Deoghar/website.git
 ```
 **5.** Check the remotes for this repository.
 ```

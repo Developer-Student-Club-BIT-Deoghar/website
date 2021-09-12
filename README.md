@@ -71,9 +71,6 @@ git push -u origin <your_branch_name>
 	</tr>
 </table>
 
-<a href="https://github.com/manankohlii/website/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=manankohlii/website" />
-</a>
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) 

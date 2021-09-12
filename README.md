@@ -52,3 +52,8 @@ git push -u origin <your_branch_name>
 **14.** Click on `Create Pull Request`.
 
 **15.** Hurray ❗ You have created a PR to the DSC-BITD Website 💥 . Sit back patiently and relax till then the project maintainers will review your PR. Please understand, there will be some time taken to review a PR and can vary from a few hours to a few days too so be Patient and keep contributing.
+
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-react.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) 
+[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com) 

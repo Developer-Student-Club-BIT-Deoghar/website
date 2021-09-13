@@ -46,9 +46,13 @@ git commit -m "Relevant message"
 git push -u origin <your_branch_name>
 ```
 **12.** To create a pull request, click on `compare and pull requests`. Please ensure you compare your feature branch to the desired branch of the repo you are suppose to make a PR to.
+
 **13.** Add appropriate title and description to your pull request explaining your changes and efforts done. Always make sure you have pulled the latest code from the master branch before making a PR.
+
 **14.** Click on `Create Pull Request`.
+
 **15.** Hurray ❗ You have created a PR to the DSC-BITD Website 💥 . Sit back patiently and relax till then the project maintainers will review your PR. Please understand, there will be some time taken to review a PR and can vary from a few hours to a few days too so be Patient and keep contributing.
+
 ## ✨Our valuable Contributors :
 <table >
 	<tr>
@@ -62,18 +66,7 @@ git push -u origin <your_branch_name>
 
 
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) 
 
-    
-          
-            
-    
-
-          
-    
-    
-  
-[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com) 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -144,3 +137,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) 
+[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com) 

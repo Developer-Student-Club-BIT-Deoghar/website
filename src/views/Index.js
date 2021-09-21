@@ -40,7 +40,7 @@ export default function Index() {
 
       <section className="mt-48 md:mt-40 pb-40 relative bg-blueGray-100">
         <div
-          className="-mt-20 top-0 bottom-auto left-0 right-0 w-full absolute h-20"
+          className="-mt-20 top-0 bottom-auto left-0 right-0 w-full absolute h-20 bg-yellow-google "
           style={{ transform: "translateZ(0)" }}
         >
           <svg
@@ -61,7 +61,7 @@ export default function Index() {
         <div className="container mx-auto">
           <div className="flex flex-wrap items-center">
             <div className="w-10/12 md:w-6/12 lg:w-4/12 px-12 md:px-4 mr-auto ml-auto -mt-32">
-              <div className="relative flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-lg rounded-lg bg-lightBlue-500">
+              <div className="relative flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-lg rounded-lg bg-yellow-google">
                 <img
                   alt="..."
                   src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80"
@@ -76,13 +76,13 @@ export default function Index() {
                   >
                     <polygon
                       points="-30,95 583,95 583,65"
-                      className="text-lightBlue-500 fill-current"
+                      className="text-yellow fill-current"
                     ></polygon>
                   </svg>
-                  <h4 className="text-xl font-bold text-white">
+                  <h4 className="text-xl font-bold text-black">
                     TO DO
                   </h4>
-                  <p className="text-md font-light mt-2 text-white">
+                  <p className="text-md font-semibold mt-2 text-black">
                     TO DO
                     TO DO
                   </p>

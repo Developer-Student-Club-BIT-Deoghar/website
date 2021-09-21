@@ -13,7 +13,7 @@ export default function Navbar(props) {
           <div className="w-full relative flex justify-between lg:w-auto lg:static lg:block lg:justify-start">
             <Link
               to="/"
-              className="text-blueGray-700 text-sm font-bold leading-relaxed inline-block mr-4 py-2 whitespace-nowrap uppercase"
+              className="text-black text-lg font-bold leading-relaxed inline-block mr-4 py-2 whitespace-nowrap uppercase"
             >
 
               GDSC BITD
@@ -36,7 +36,7 @@ export default function Navbar(props) {
             <ul className="flex flex-col lg:flex-row list-none mr-auto">
               <li className="flex items-center">
                 <a
-                  className="hover:text-blueGray-500 text-blueGray-700 px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold"
+                  className="hover:text-blueGray-500 text-black px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold"
                   href="/about"
                 >
                    About Us
@@ -46,7 +46,7 @@ export default function Navbar(props) {
             <ul className="flex flex-col lg:flex-row list-none lg:ml-auto">
               <li className="flex items-center">
                 <a
-                    className="hover:text-blueGray-500 text-blueGray-700 px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold"
+                    className="hover:text-blueGray-500 text-black px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold"
                     href="/announcements"
                 >
                  ANNOUNCEMENTS
@@ -54,7 +54,7 @@ export default function Navbar(props) {
               </li>
               <li className="flex items-center">
                 <a
-                    className="hover:text-blueGray-500 text-blueGray-700 px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold"
+                    className="hover:text-blueGray-500 text-black px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold"
                     href="/events"
                 >
                   Events
@@ -63,7 +63,7 @@ export default function Navbar(props) {
 
               <li className="flex items-center">
                 <a
-                    className="hover:text-blueGray-500 text-blueGray-700 px-3 py-4 lg:py-2 flex items-center text-xs  font-bold"
+                    className="hover:text-blueGray-500 text-black px-3 py-4 lg:py-2 flex items-center text-xs  font-bold"
                     href="/blogs"
                 >
                  BLOGS
@@ -71,7 +71,7 @@ export default function Navbar(props) {
               </li>
               <li className="flex items-center">
                 <a
-                    className="hover:text-blueGray-500 text-blueGray-700 px-3 py-4 lg:py-2 flex items-center text-xs  font-bold"
+                    className="hover:text-blueGray-500 text-black px-3 py-4 lg:py-2 flex items-center text-xs  font-bold"
                     href="/tools"
                 >
                  TOOLS
@@ -79,7 +79,7 @@ export default function Navbar(props) {
               </li>
               <li className="flex items-center">
                 <a
-                  className="hover:text-blueGray-500 text-blueGray-700 px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold"
+                  className="hover:text-blueGray-500 text-black px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold"
                   href="https://www.instagram.com/dscbitdeoghar/"
                   target="_blank"
                 >
@@ -90,7 +90,7 @@ export default function Navbar(props) {
 
               <li className="flex items-center">
                 <a
-                  className="hover:text-blueGray-500 text-blueGray-700 px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold"
+                  className="hover:text-blueGray-500 text-black px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold"
                   href="https://twitter.com/club_bitd"
                   target="_blank"
                 >

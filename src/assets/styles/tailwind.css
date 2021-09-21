@@ -1223,6 +1223,11 @@ select {
   background-color: rgba(248, 250, 252, var(--tw-bg-opacity));
 }
 
+.bg-yellow-100 {
+  --tw-bg-opacity: 1;
+  background-color: rgba(241, 245, 249, var(--tw-bg-opacity));
+}
+
 .bg-blueGray-100 {
   --tw-bg-opacity: 1;
   background-color: rgba(241, 245, 249, var(--tw-bg-opacity));
@@ -2377,6 +2382,11 @@ select {
 .text-lightBlue-500 {
   --tw-text-opacity: 1;
   color: rgba(14, 165, 233, var(--tw-text-opacity));
+}
+
+.text-yellow {
+  --tw-text-opacity: 1;
+  color: rgba(255, 185, 0, var(--tw-bg-opacity));
 }
 
 .text-lightBlue-600 {

@@ -6,6 +6,7 @@ This is the official website of Google Developer Student Club, Birla Institute o
 ![REACT](https://img.shields.io/badge/react%20-%23E34F26.svg?&style=for-the-badge&logo=react&logoColor=white)
 ## 📌Contributing Guidelines :
 **1.**  Fork [this](https://github.com/Developer-Student-Club-BIT-Deoghar/website.git) repository.
+
 **2.**  Clone your forked copy of the project.
 ```
 git clone --depth 1 https://github.com/<your_name>/website.git
